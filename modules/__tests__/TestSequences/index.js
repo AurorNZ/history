@@ -25,7 +25,6 @@ export {
 } from './LocationPathnameAlwaysSame.js';
 export { default as NoslashHashPathCoding } from './NoslashHashPathCoding.js';
 export { default as PushEncodedLocation } from './PushEncodedLocation.js';
-export { default as PushInvalidPathname } from './PushInvalidPathname.js';
 export { default as PushNewLocation } from './PushNewLocation.js';
 export { default as PushMissingPathname } from './PushMissingPathname.js';
 export { default as PushSamePath } from './PushSamePath.js';
@@ -34,7 +33,6 @@ export { default as PushState } from './PushState.js';
 export { default as PushStateWarning } from './PushStateWarning.js';
 export { default as PushRelativePathname } from './PushRelativePathname.js';
 export { default as PushUnicodeLocation } from './PushUnicodeLocation.js';
-export { default as ReplaceInvalidPathname } from './ReplaceInvalidPathname.js';
 export { default as ReplaceNewLocation } from './ReplaceNewLocation.js';
 export { default as ReplaceSamePath } from './ReplaceSamePath.js';
 export { default as ReplaceState } from './ReplaceState.js';
